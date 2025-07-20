@@ -6,7 +6,7 @@ write the data accordingly (write_todos)
 print ("Dynamic path defined in functions.py")
 
 """ base_dir = os.path.join("D:","Udemy", "D6")  
-sub_dir = "Experiments"
+sub_dir = "Bonus"
 dynamic_path = os.path.join(base_dir, sub_dir,"todos.txt") """
 
 
